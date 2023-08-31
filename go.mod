@@ -1,6 +1,6 @@
 module example.com/m
 
-go 1.20
+go 1.21
 
 require (
 	filippo.io/edwards25519 v1.0.0 // indirect
