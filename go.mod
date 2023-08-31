@@ -9,7 +9,7 @@ require (
 	github.com/mdp/qrterminal v1.0.1 // indirect
 	github.com/mdp/qrterminal/v3 v3.0.0 // indirect
 	go.mau.fi/libsignal v0.1.0 // indirect
-	go.mau.fi/whatsmeow v0.0.0-20230410091758-46e30e265256 // indirect
+	go.mau.fi/whatsmeow v0.0.0-20230824151650-6da2abde6b7c // indirect
 	golang.org/x/crypto v0.8.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	rsc.io/qr v0.2.0 // indirect
